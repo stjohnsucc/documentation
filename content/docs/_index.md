@@ -1,18 +1,15 @@
 ---
 title: Documentation
-next: first-page
+prev: 
+next: 
 ---
 
-This is a demo of the theme's documentation layout.
+This is St. John's UCC's internal documentation site. If you are an employee, this will tell you how to do what you need to do.
 
-## Hello, World!
+If you are not an employee, I don't know how you got here but please go away.
 
-```go {filename="main.go"}
-package main
+## Navigation
 
-import "fmt"
+On the left, you will see the Table of Contents for the whole site.
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+On the right, you will see the Table of Contents for the page you're on.

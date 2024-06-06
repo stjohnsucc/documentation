@@ -1,10 +1,10 @@
 ---
-title: Folder
+title: WIP
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: 
+next: 
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+WIP
