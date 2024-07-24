@@ -1,10 +1,10 @@
 ---
-title: WIP
+title: Mailchimp
 type: docs
-prev: 
+prev: google-slides
 next: 
+weight: 5
 sidebar:
   open: true
 ---
 
-WIP
